@@ -45,6 +45,7 @@ CDXtract | non-free | | Windows, Mac OS X
 Soundfont Librarian: This librarian is a tool to manage, edit, and customize SoundFont banks. You can load several banks each in their own Windows, then simply drag-and-drop presets from one bank into another, to custom create banks containing just the presets you want in an all new bank. Save your creation back to disk when finished. | | | |
 SF2 Splitter: Simple tool that extracts instruments from SoundFont files. | | | Windows
 Awave Studio | non-free | | Windows
+[SFZ Designer](http://mildon.me/sfzdesigner) | free | | Windows
 
 
 ## Links
