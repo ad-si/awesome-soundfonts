@@ -2,17 +2,14 @@
 
 ## Information
 
-- [alchemymanual/sfz-files] - Description.
 - [drealm.info/sfz] - Description.
 - [drealm.info/sfz/plj-sfz] - Unofficial documentation.
-- [create your own virtual instruments with sfz files] - Create you own
+- [keyboardmag.com - create your own virtual instruments] - Create you own
   Virtual Instruments with SFZ Files.
 
-[alchemymanual/sfz-files]: http://camelaudio.com/alchemymanual/sfz-files
 [drealm.info/sfz]: http://drealm.info/sfz
 [drealm.info/sfz/plj-sfz]: http://drealm.info/sfz/plj-sfz.xhtml
-[create your own virtual instruments with sfz files
-]: http://keyboardmag.com/miscellaneous/1265/create-your-own-virtual-instruments-with-sfz-files/31010
+[keyboardmag.com - create your own virtual instruments]: http://keyboardmag.com/miscellaneous/1265/create-your-own-virtual-instruments-with-sfz-files/31010
 
 
 ## Software
