@@ -26,10 +26,14 @@ A curated list of awesome soundfont software, libraries, and resources.
 - [Cakewalk Synthesizers: From Presets to Power User][Ca] – Book by Simon Cann.
 - [drealm.info/sfz] - Unofficial SFZ documentation.
 - [SFZFormat] – Main sfz reference page.
+- [SoundFont Technical Specification 2.04][SoundFontSpec]
+- [Description of unofficial SoundFont 3 Format][SoundFont3Spec]
 
 [Ca]: https://www.amazon.com/dp/1435455649
 [drealm.info/sfz]: http://drealm.info/sfz
 [SFZFormat]: https://sfzformat.com
+[SoundFontSpec]: https://freepats.zenvoid.org/sf2/sfspec24.pdf
+[SoundFont3Spec]: https://github.com/FluidSynth/fluidsynth/wiki/SoundFont3Format
 
 
 ## Software
@@ -51,6 +55,8 @@ A curated list of awesome soundfont software, libraries, and resources.
 - [OxiSynth] - SoundFont synthesizer written in pure Rust.
 - [RustySynth] - SoundFont synthesizer written in pure Rust.
 - [Sforzando] - Free SFZ Player.
+- [Soundfont Midi Player] - MIDI player, router, and real time synth.
+- [SpessaSynth] - MIDI SoundFont/DLS synthesizer written in JavaScript.
 - [TX16Wx] - Software sampler with SFZ support.
 
 [ARIA Engine]: http://ariaengine.com/products/
@@ -59,6 +65,8 @@ A curated list of awesome soundfont software, libraries, and resources.
 [OxiSynth]: https://github.com/PolyMeilex/OxiSynth
 [RustySynth]: https://github.com/sinshu/rustysynth
 [Sforzando]: https://www.plogue.com/products/sforzando.html
+[Soundfont Midi Player]: https://falcosoft.hu/softwares.html
+[SpessaSynth]: https://github.com/spessasus/SpessaSynth
 [TX16Wx]: https://www.tx16wx.com/
 
 
@@ -101,6 +109,15 @@ Name           | Operating systems
 
 [Linux Sampler - SFZ]: https://linuxsampler.org/sfz
 [MuseScore Manual - Soundfonts]: https://musescore.org/en/handbook/4/soundfonts
+
+
+### Libraries
+
+- [FluidSynth] - SoundFont software synthesizer.
+- [soundfont2] - SoundFont2 parser for Node.js and web browsers.
+
+[FluidSynth]: https://www.fluidsynth.org
+[soundfont2]: https://github.com/Mrtenz/soundfont2
 
 
 ## Soundfonts
