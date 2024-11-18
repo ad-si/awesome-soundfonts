@@ -30,7 +30,7 @@ A curated list of awesome soundfont software, libraries, and resources.
 - [Description of unofficial SoundFont 3 Format][SoundFont3Spec]
 
 [Ca]: https://www.amazon.com/dp/1435455649
-[drealm.info/sfz]: http://drealm.info/sfz
+[drealm.info/sfz]: http://www.drealm.info/sfz/
 [SFZFormat]: https://sfzformat.com
 [SoundFontSpec]: https://freepats.zenvoid.org/sf2/sfspec24.pdf
 [SoundFont3Spec]: https://github.com/FluidSynth/fluidsynth/wiki/SoundFont3Format
@@ -81,7 +81,7 @@ Name        | License | Operating systems
 [SWAMI]     | GPLv2   | Linux, Mac OS X
 [Viena]     |         | Windows
 
-[Polyphone]: https://www.polyphone-soundfonts.com
+[Polyphone]: https://www.polyphone.io/
 [sfZed]: http://steveholt.drealm.info/sfZed.html
 [SWAMI]: http://www.swamiproject.org/
 [Viena]: https://www.synthfont.com/Viena_news.html
@@ -107,7 +107,7 @@ Name           | Operating systems
 - [Linux Sampler - SFZ] – SFZ format support in Linux Sampler.
 - [MuseScore Manual - Soundfonts] - How to use soundfonts in MuseScore.
 
-[Linux Sampler - SFZ]: https://linuxsampler.org/sfz
+[Linux Sampler - SFZ]: https://linuxsampler.org/sfz/
 [MuseScore Manual - Soundfonts]: https://musescore.org/en/handbook/4/soundfonts
 
 
@@ -128,7 +128,7 @@ Name           | Operating systems
 
 [Arachno SoundFont]: https://www.arachnosoft.com/main/soundfont.php
 [GeneralUser GS]: https://schristiancollins.com/generaluser.php
-[Roland SC-55]: https://github.com/trevor0402/SC55Soundfont
+[Roland SC-55]: https://github.com/GuihongWang/SC55Soundfont/tags
 
 
 You can also find more soundfonts on [Musical Artifacts] and [Soundfonts 4U].
