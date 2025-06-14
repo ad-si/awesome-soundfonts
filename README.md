@@ -16,10 +16,10 @@ A curated list of awesome soundfont software, libraries, and resources.
     - [Free](#free)
     - [Commercial](#commercial)
   - [Usage](#usage)
+  - [Libraries](#libraries)
 - [Soundfonts](#soundfonts)
 
 <!-- tocstop -->
-
 
 ## Information
 
@@ -30,9 +30,9 @@ A curated list of awesome soundfont software, libraries, and resources.
 - [Description of unofficial SoundFont 3 Format][SoundFont3Spec]
 
 [Ca]: https://www.amazon.com/dp/1435455649
-[drealm.info/sfz]: http://www.drealm.info/sfz/
+[drealm.info/sfz]: https://www.drealm.info/sfz/
 [SFZFormat]: https://sfzformat.com
-[SoundFontSpec]: https://freepats.zenvoid.org/sf2/sfspec24.pdf
+[SoundFontSpec]: https://web.archive.org/web/20241105120521/https://freepats.zenvoid.org/sf2/sfspec24.pdf
 [SoundFont3Spec]: https://github.com/FluidSynth/fluidsynth/wiki/SoundFont3Format
 
 
@@ -82,7 +82,7 @@ Name        | License | Operating systems
 [Viena]     |         | Windows
 
 [Polyphone]: https://www.polyphone.io/
-[sfZed]: http://steveholt.drealm.info/sfZed.html
+[sfZed]: https://steveholt.drealm.info/sfZed.html
 [SWAMI]: http://www.swamiproject.org/
 [Viena]: https://www.synthfont.com/Viena_news.html
 
@@ -92,12 +92,10 @@ Name        | License | Operating systems
 Name           | Operating systems
 ---------------|------------------
 [Awave Studio] | Windows
-[CDXtract]     | Windows, Mac OS X
 [Constructor]  | Windows, Mac OS X
 [Polyphontics] | Mac OS X
 
 [Awave Studio]: https://www.fmjsoft.com/awavestudio.html
-[CDXtract]: http://www.soundlib.com/cdxtract/
 [Constructor]: https://www.chickensys.com/products2/constructor/index.html
 [Polyphontics]: https://sonicamigos.com/polyphontics/
 
@@ -134,4 +132,4 @@ Name           | Operating systems
 You can also find more soundfonts on [Musical Artifacts] and [Soundfonts 4U].
 
 [Musical Artifacts]: https://musical-artifacts.com/artifacts?tags=soundfont
-[Soundfonts 4U]: https://sites.google.com/site/soundfonts4u/
+[Soundfonts 4U]: https://web.archive.org/web/20250328111136/https://sites.google.com/site/soundfonts4u/
