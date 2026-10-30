@@ -55,6 +55,7 @@ A curated list of awesome soundfont software, libraries, and resources.
 - [OxiSynth] - SoundFont synthesizer written in pure Rust.
 - [RustySynth] - SoundFont synthesizer written in pure Rust.
 - [Sforzando] - Free SFZ Player.
+- [simpleSF2] - SF2 and SFZ player plugin (VST3, AU, CLAP) for macOS, Windows and Linux.
 - [Soundfont Midi Player] - MIDI player, router, and real time synth.
 - [SpessaSynth] - MIDI SoundFont/DLS synthesizer written in JavaScript.
 - [TX16Wx] - Software sampler with SFZ support.
@@ -65,6 +66,7 @@ A curated list of awesome soundfont software, libraries, and resources.
 [OxiSynth]: https://github.com/PolyMeilex/OxiSynth
 [RustySynth]: https://github.com/sinshu/rustysynth
 [Sforzando]: https://www.plogue.com/products/sforzando.html
+[simpleSF2]: https://simplesoundbank.com/simplesf2/ 
 [Soundfont Midi Player]: https://falcosoft.hu/softwares.html
 [SpessaSynth]: https://github.com/spessasus/SpessaSynth
 [TX16Wx]: https://www.tx16wx.com/
